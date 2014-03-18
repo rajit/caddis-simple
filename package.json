@@ -1,0 +1,30 @@
+{
+  "name": "caddis-simple",
+  "version": "0.1.0",
+  "description": "A simple library for starting a mock REST server, and setting up fixtures.  Based on caddis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajit/caddis-simple.git"
+  },
+  "keywords": [
+    "caddis",
+    "REST",
+    "mock",
+    "testing"
+  ],
+  "author": "Rajit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajit/caddis-simple/issues"
+  },
+  "homepage": "https://github.com/rajit/caddis-simple",
+  "dependencies": {
+    "caddis": "^0.4.4",
+    "q": "^1.0.1",
+    "request": "^2.34.0"
+  }
+}
