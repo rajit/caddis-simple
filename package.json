@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rajit/caddis-simple",
   "dependencies": {
-    "caddis": "^0.4.4",
+    "caddis": "git+ssh://git@github.com/fid-dev/caddis.git",
     "q": "^1.0.1",
     "request": "^2.34.0"
   }
